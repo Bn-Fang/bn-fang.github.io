@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Introducitions"
+date: 2024-02-03T12:00:00-00:00
 categories:
   - blog
 tags:
@@ -8,7 +8,7 @@ tags:
   - update
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BNVDcV7ldM8?si=7DjZFldeNPD5HL36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed?listType=playlist&list=UUtkhVHsmgifeB_5VFJofsSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
