@@ -17,7 +17,7 @@ title: My Archive of Projects
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is a page dedicated to centralizing and showing off my creations.
-twitter_username: @fangcooking
+twitter_username: fangcooking
 github_username: Bn-Fang
 minimal_mistakes_skin: default
 search: true
@@ -65,7 +65,7 @@ author:
       url: "https://"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/"
+      url: "https://youtube.com/@fangcooking"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -77,7 +77,7 @@ footer:
   links:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/"
+      url: "https://youtube.com/@fangcooking"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
