@@ -2,4 +2,19 @@
 ---
 
 @charset "utf-8";
-@import "custom"; // main partials
+
+$font-stack: Helvetica, sans-serif;
+$primary-color: #f2f1db;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+
+$background-color: #131534;
+
+
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes"; // main partials
