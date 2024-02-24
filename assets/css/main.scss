@@ -1,6 +1,3 @@
----
-search: false
----
 @charset "utf-8";
 
 $font-stack: Helvetica, sans-serif;
@@ -12,6 +9,6 @@ body {
 }
 
 
-
 $background-color: #131534;
-@import "minimal-mistakes";
+
+@import "minimal-mistakes"; // main partials
