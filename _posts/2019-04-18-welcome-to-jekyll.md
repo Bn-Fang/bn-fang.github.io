@@ -8,5 +8,5 @@ tags:
   - update
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed?listType=playlist&list=UUtkhVHsmgifeB_5VFJofsSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/9859993?color=a59fff" allowfullscreen="" width="960" height="560"><a href="https://kingtest.itch.io/mirrorside-prototype">Play MirrorSide Prototype on itch.io</a></iframe>
 
